@@ -27,7 +27,7 @@ The models are trained and validated on a balanced 240,000-record subset of the 
 
 ## Dashboard
 The Tableau Public dashboard visualizes model outputs and system status across four panels:
-[SentinelMesh Edge — IoT Intrusion Detection Dashboard](PASTE_YOUR_PUBLIC_SHARE_LINK_HERE)
+[SentinelMesh Edge — IoT Intrusion Detection Dashboard](https://public.tableau.com/views/SentinelMeshEdge/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## How to Run
 1. Clone this repository
